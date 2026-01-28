@@ -26,9 +26,9 @@ The design uses warm royal colors like gold, brown, and cream to reflect the ele
 Minimal typography and spacing were chosen to keep the layout clean while highlighting the premium nature of the product.
 The overall look is simple yet classy, focusing on brand identity and user engagement.
 🚀 Live Demo
-🔗 Live Link: (Add your Netlify / Vercel / GitHub Pages link here)
+🔗 Live Link: https://royal-chai-landing.vercel.app/
 💻 Source Code
-📂 GitHub Repository: (Add your GitHub repo link here)
+📂 GitHub Repository: https://github.com/MANIKANTA43513/royal-chai-landing.git
 📊 Evaluation Alignment
 Design & Brand Fit: Royal colors, traditional theme, premium feel
 Code Quality: Clean HTML structure, organized CSS, simple JS
