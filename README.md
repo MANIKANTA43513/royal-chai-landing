@@ -1,73 +1,36 @@
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+☕ Brew the Royal Tradition – Coming Soon Landing Page
+📌 Project Overview
+This project is a “Coming Soon” landing page built for a premium instant chai tea premix brand inspired by royal Indian households.
+The goal was to create an elegant, warm, and royal digital presence that clearly communicates the brand essence while collecting early user interest through email sign-ups.
+🎯 Brand Concept
+Tagline: Brew the Royal Tradition
+The brand represents rich Indian tea culture blended with royal heritage.
+The design reflects warmth, elegance, and tradition using gold accents, deep browns, and soft cream tones to give a premium and inviting feel.
+✨ Features Implemented
+Brand logo and tagline prominently displayed
+Short brand description explaining the product concept
+Email signup box for early access notifications
+Clear “Launching Soon” message to build anticipation
+Social media icons for future brand engagement
+Fully mobile-responsive layout
+Clean, readable, and well-structured code
+🛠 Tech Stack
+HTML
+CSS
+JavaScript
+(No external frameworks used to keep the code clean and lightweight)
+📱 Responsiveness
+The landing page is designed using responsive layouts and flexible units, ensuring a smooth experience across mobile, tablet, and desktop devices.
+🎨 Design Choices (2–3 Sentences)
+The design uses warm royal colors like gold, brown, and cream to reflect the elegance and heritage of traditional Indian households.
+Minimal typography and spacing were chosen to keep the layout clean while highlighting the premium nature of the product.
+The overall look is simple yet classy, focusing on brand identity and user engagement.
+🚀 Live Demo
+🔗 Live Link: (Add your Netlify / Vercel / GitHub Pages link here)
+💻 Source Code
+📂 GitHub Repository: (Add your GitHub repo link here)
+📊 Evaluation Alignment
+Design & Brand Fit: Royal colors, traditional theme, premium feel
+Code Quality: Clean HTML structure, organized CSS, simple JS
+Mobile Responsive: Works seamlessly across screen sizes
+Creativity: Elegant visuals with a strong brand story
